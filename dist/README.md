@@ -1,9 +1,9 @@
-# README
+# README Generator
 ![GitHub liscense](https://img.shields.io/badge/License-MIT-blue.svg)
       
 ## Description
       
-A README generator
+This project is a simple README generator
       
 ## Table of Contents
   
@@ -27,7 +27,7 @@ To install necessary components, run the following command:
 
 ## Usage
       
-This repo is all about a README installer      
+This repo has packages that need to be installed       
 
 ## License
       
@@ -44,4 +44,4 @@ To run tests, run the following command:
     npm test
     
 ## Questions 
-If have any questions about the repo, open an issue or contact me directly at mcalebhoyle@gmail.com. You can find more of my work at choyle-01.
+If have any questions about the repo, open an issue or contact me directly at mcalebhoyle@gmail.com. You can find more of my work at [choyle-01.](https://github.com/choyle-01)

@@ -118,7 +118,7 @@ To run tests, run the following command:
     ${tests}
     
 ## Questions 
-If have any questions about the repo, open an issue or contact me directly at ${email}. You can find more of my work at ${userName}.`;
+If have any questions about the repo, open an issue or contact me directly at ${email}. You can find more of my work at [${userName}.](https://github.com/${userName})`;
         fs.writeFile("./dist/README.md", readMeTemplate, (err) => {
           err ? console.log(err) : console.log("success!");
         });

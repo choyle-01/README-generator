@@ -6,6 +6,6 @@ In this assignment we were tasked with creating a README generator that could be
 ## Github Repository
 The Github repository can be found [here](https://github.com/choyle-01/README-generator)
 
-## Link
+## Visuals
 
 A video demonstration of the project can be found [here.](https://drive.google.com/file/d/1QY1njxojmDme0rcbGmq49gPH4M9pNpi7/view?usp=sharing)
